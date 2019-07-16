@@ -37,12 +37,12 @@ The correlation and trend between various cryptocurrencies are evaluated to unde
 </p>
 
 
-All code used for the analysis can he found in the [notebook](https://github.com/PriceTT/DSND4/edit/master/README.md).
+All code used for the analysis can he found in the [notebook](https://github.com/PriceTT/DSND4/blob/master/1-EDA.ipynb).
 
 To read the blog post associated with the article, you can go [here](https://medium.com/@pricett/simple-method-to-assess-your-next-crypto-investment-9443f56ee4bf).
 
-## Files
-* 1-EDA.ipynb: Notebe for the analysis 
+## Files in the Repo
+* 1-EDA.ipynb: [notebook](https://github.com/PriceTT/DSND4/blob/master/1-EDA.ipynb) for the analysis 
 ### data
 * raw
   * Coinmarketcap.csv: Raw data
